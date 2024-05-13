@@ -29,7 +29,7 @@ Entre los principales resultados se obtuvo:
  
  Además se realizó un mapa de calor y uno por clusters con las coordenadas exactas donde ocurrieron los homicidios.
 
- ### El siguiente documento brinda un análisas más detallado del estudio y lo encontrado en el mismo:
+ ### El siguiente documento brinda un análisis más detallado del estudio y lo encontrado en el mismo:
  
 [Data_Science_Proyecto_Final.docx](https://github.com/KamiAvila/Data-Proyecto-Final/files/15284733/Data_Science_Proyecto_Final.docx)
 
@@ -75,13 +75,13 @@ Luego instalar librerías:
 
 - from sklearn.preprocessing import StandardScaler
 
-Intalar las bases de datos, preferiblemente tenerlas en google drive y con los mismos nimbres de código fuente:
+Instalar las bases de datos, preferiblemente tenerlas en google drive y con los mismos nombres de código fuente:
 
 [Bases- Homicidios y Detenidos.zip](https://github.com/KamiAvila/Data-Proyecto-Final/files/15284969/Bases-.Homicidios.y.Detenidos.zip)
 
 Las bases de datos provienen del Ministerio del Interior como bases de homicidios intencionales y de aprehensiones: http://181.113.21.13:8080/registroinicial-war/estadisticas.html
 
-Una breve descripción de las bases es que tienen códigos de circuitos, subcircuitos y provincias, además de características de las víctimas de los homicidios, como su instrucción, etnia, género, instrucción, entre otros.
+Una breve descripción de las bases es que tienen códigos de circuitos, subcircuitos y provincias, además de características de las víctimas de los homicidios, como etnia, género, instrucción, entre otros. Además de características del hecho ocurrido como el arma con la que se ejecutó, la hora, coordenadas exactas, entre otros. La muestra brinda información sobre 8009 homicidios intencionales a lo largo de 2023, donde la gran mayoría de variables son categóricas.
 
 
 
