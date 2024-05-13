@@ -19,7 +19,7 @@ Entre los principales resultados se obtuvo:
 
  - Existieron 262 abortos que fueron registrados en la base
  
- - Las 5 provincias más violentas del país ssolo contando el número de homicidios son: Guayas, Los Ríos, Manabí, El Oro y Esmeraldas, (todas de la región costa).
+ - Las 5 provincias más violentas del país solo contando el número de homicidios son: Guayas, Los Ríos, Manabí, El Oro y Esmeraldas, (todas de la región costa).
 
  - Las 5 provincias más violentas según la tasa de homicidios por cada cien mil habitantes son: Esmeraldas con 55.24, Guayas con 52.82, Santa Elena con 33.96, Sucumbíos con 33.67 y El Oro con 33.45, respectivamente.
 
