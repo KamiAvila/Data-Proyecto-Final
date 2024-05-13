@@ -6,7 +6,7 @@
 Observar que lugares son los "puntos calientes" de homicidios y asesinatos en el Ecuador para así comprender el fenómeno, los patrones y frecuencia de la violencia ejercida en forma de asesinatos y homicidios según características específicas durante el año 2023, además como se encuentra la distribución de los homicidios en el territorio nacional. 
 
 ### Metodología :
-Mediante la separación por categorías como: edad, género, lugar de ocurrencia, tiempo del día en el que ocurre el homicidio,  clusterización y herramientas de vizualización se pudo establecer por la frecuencia de ocurrencia que lugares, ciudades, grupos etarios, entre otras características que grupos fueron los más afectados por la violencia en el país a lo largo del año 2023.
+Mediante la separación por categorías como: edad, género, lugar de ocurrencia, tiempo del día en el que ocurre el homicidio y herramientas de vizualización se pudo establecer por la frecuencia de ocurrencia que lugares, ciudades, grupos etarios, entre otras características que grupos fueron los más afectados por la violencia en el país a lo largo del año 2023.
 
 ### Principales Hallazgos:
 Entre los principales resultados se obtuvo:
